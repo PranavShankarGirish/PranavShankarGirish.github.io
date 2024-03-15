@@ -1,4 +1,13 @@
-# Data Scientist
+# Overview
+
+Hello! I'm Pranav, a Master of Business Analytics candidate at MIT, where my focus is on Data Science, Machine Learning, and Optimization. My interests lie mainly in developing data-driven decision-making systems that can adapt to and anticipate the complexities of today’s dynamic environment.
+
+My educational journey at MIT is an extension of a strong foundation in operations research cultivated during my bachelor's degree at IIT Delhi. There, I not only engaged in research projects focusing on mathematical modeling for large-scale stochastic systems but also ventured into management consulting with a Big 4 firm, integrating quantitative analysis to foster tangible business outcomes.
+
+My professional and academic experiences span a diverse array of sectors including e-commerce, finance, healthcare, transportation, and tech industries. I am particularly passionate about the potential of Generative AI and Reinforcement Learning techniques to revolutionize our approach to problem-solving and decision-making.
+
+Through this portfolio, you'll find a showcase of my projects and contributions that reflect a dedication to harnessing the power of analytics to drive innovation and efficiency. I invite you to explore my work and the journey that has shaped my expertise and vision.
+
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
