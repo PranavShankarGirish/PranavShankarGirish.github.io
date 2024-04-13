@@ -28,14 +28,14 @@ Our project uses detailed textual descriptions to enhance font design and handwr
 
 Our study focused on the New York Times (NYT) crossword puzzles, noted for their distinctive clues and progressive difficulty levels. The primary aim of this project is to provide users with potential answers that are sensitive to the context and language intricacies of the clue and the structural constraints of the crossword puzzle, such as word length. We examined various methods, including BERT, zero/few-shot predictions, RAG, and fine-tuning techniques, and evaluated their effectiveness in navigating the linguistic terrain of NYT crossword puzzles. Through these models, we aimed to gain a deeper understanding of the capabilities of current LLM technologies and their suitability for addressing complex language-based challenges, exemplified by the nuances of NYT crossword puzzle clues.
 
-### Sentiment-Enhanced Algorithmic Stock Trading Agent
+#### Sentiment-Enhanced Algorithmic Stock Trading Agent
 
 This project aims to develop an intelligent trading agent capable of making real-time trading decisions informed by both historical market data and the sentiment derived from financial news and related articles. By utilizing a combination of sentiment analysis and Optimal Policy Trees (OPTs), we aim to capture the sentiment-driven fluctuations in the stock market alongside historical stock behaviour to optimize investment returns.
 
-### Taxi Dispatch Decision Support System using Finite Horizon Formulation
+#### Taxi Dispatch Decision Support System using Finite Horizon Formulation
 This project proposes a data-driven project focused on optimizing the decision-making process for taxi drivers by leveraging historical ride data. Currently, taxi drivers rely on manual, case-by-case decision-making when deciding whether to accept or decline a trip. This approach leaves drivers susceptible to suboptimal choices, as they lack a comprehensive understanding of the potential profitability of each trip. Further, the algorithms currently in place in ride-hailing apps only consider optimizing overall trips, without granularity to optimize the earnings of individual drivers. The key objective is thus to develop an optimization model that guides taxi drivers in determining whether to accept or decline a trip based on potential returns for the day, considering factors such as distance, time of day, prices, and historical earnings
 
-### Time-Series Forecasting for the Boston Bluebikes Service
+#### Time-Series Forecasting for the Boston Bluebikes Service
 
 This project analyzes the Bluebikes data to understand the factors influencing hourly and station-level bike usage to develop predictive models for hour-level bike demand. This insight is crucial for optimizing bike and dock allocations, particularly during peak hours, enhancing customer satisfaction and overall system efficiency. We employed a variety of modeling techniques to explore and predict bike usage patterns. Specifically, we used Linear Regression and Classification and Regression Trees (CART) to examine baseline relationships between bike usage and various factors like weather conditions and temporal components like time of day and month. To predict overall demand based on numerical and categorical variables, we employed Linear Regression, Random Forest, and XGBoost. We also explored time-series forecasting models, including Prophet and SARIMA, to account for seasonality and time-specific patterns.
 
