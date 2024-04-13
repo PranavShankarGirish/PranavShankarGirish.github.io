@@ -8,14 +8,15 @@ description: > # your text below (remove <br> elements if you don't need line br
     B.Tech, IIT Delhi
     <br><br>
     <img src="images/linkedin_logo-2.png?raw=true" width="5%" height="5%"/>
-    <a href="https://www.linkedin.com/in/pranav-shankar-girish/">pranavshankargirish</a> 
+    <a href="https://www.linkedin.com/in/pranav-shankar-girish/">LinkedIn</a> 
     <br>
     <img src="images/github_logo.png?raw=true" width="5%" height="5%"/>
-    <a href="https://github.com/PranavShankarGirish/">pranavshankargirish</a> 
+    <a href="https://github.com/PranavShankarGirish/">Github</a> 
     <br>
     <br>
     <img src="images/iitd_logo-2.png?raw=true" width="30%" height="30%"/>
     <img src="images/mit_logo-2.png?raw=true" width="30%" height="30%"/>
   </p>
-show_downloads: false
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
