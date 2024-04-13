@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Hello! I'm Pranav, a Master of Business Analytics candidate at MIT, where my focus is on Data Science, Machine Learning, and Optimization. My interests lie mainly in developing data-driven decision-making systems that can adapt to and anticipate the complexities of today’s dynamic environment. 
+Hello! I'm Pranav, a master's student at MIT (expected graduation: Aug 2024), where my focus is on Data Science, Machine Learning, and Optimization. My interests lie mainly in developing data-driven decision-making systems that can adapt to and anticipate the complexities of today’s dynamic environment. 
 
 My educational journey at MIT is an extension of a strong foundation in operations research cultivated during my bachelor's degree at IIT Delhi. There, I not only engaged in research projects focusing on mathematical modeling for large-scale stochastic systems but also ventured into management consulting with a Big 4 firm, integrating quantitative analysis to foster tangible business outcomes.
 
